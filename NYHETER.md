@@ -12,7 +12,7 @@ Vi bruker nå github for å legge ut nyheter. Det innebærer at du nå kan få e
 2. Følg webprosjekt, ved å logge deg inn, gå til [repositoriet for kurset](https://github.com/hioa-cs/webprosjekt) og trykk "Watch". Les mer om varsling her: [Notification & Stars](https://github.com/blog/1204-notifications-stars)
 
 
-** Info om forskningsprosjektene **
+**Info om forskningsprosjektene**
 
 1. [Pedagogikk-prosjektet](FoU_Pedagogikk.md), presentert dag 1, v. Prof.Monika Nerland
 2. [Eye-tracking](FoU_Eyetracking.md), presentert i dag, v. Gerd Berget

@@ -3,7 +3,7 @@
 **Kontaktpersoner:**
 
 Monika Nerland, [monika.nerland@ped.uio.no](mailto:monika.nerland@ped.uio.no)
-Professor, Institutt for pedagogikk UiO
+*Professor, Institutt for pedagogikk UiO*
 
 Crina Damsa, [crina.damsa@intermedia.uio.no](mailto:crina.damsa@intermedia.uio.no)
-Forsker i prosjektet
+*Forsker i prosjektet*

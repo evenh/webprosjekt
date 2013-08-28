@@ -60,9 +60,43 @@ address{
     border-bottom: 2px solid white;
 }
 
+
+nav {
+    color: white;
+    background-color: gray;
+    position: relative;
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    border: 1px solid gray;
+
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0px;
+
+}
+
+nav ul{
+    padding: 0px;
+    margin: 5px;
+}
+
+nav li{
+    display: inline;
+    padding: 10px;
+}
+
 aside{
+    width: 20em;
     border: 2px solid gray;
     font-family: sans-serif;    
+    float: right;
+    margin: 10px;
+}
+
+aside section{
+    padding: 5px;
 }
 
 aside header{

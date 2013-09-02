@@ -13,6 +13,7 @@ footer{
 
 h1{
     font-size: 3em;
+    text-shadow: 0.1em 0.1em 3px #111;
 }
 
 h2{
@@ -32,13 +33,14 @@ article{
     
     max-width: 800px;
     min-width: 380px;
+    
+    margin-top: 20px;
     margin-right: auto;
     margin-left: auto;
         
     background-color: #ffffff;
     
-    border-left: 20px solid #222222;
-    border-bottom: 10px solid #222222;
+    box-shadow: -15px -15px 15px #111;
     
 }
 
@@ -68,14 +70,15 @@ address{
 
 
 nav {
-    color: white;
-    background-color: gray;
+    color: #333;
+    background-color: #444;
     position: relative;
     width: 95%;
     margin-top: 10px;
     margin-bottom: 10px;
     
-    border: 1px solid gray;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
 
     margin-right: auto;
     margin-left: auto;
@@ -83,14 +86,23 @@ nav {
 
 }
 
+nav a{
+    color: white;
+}
+
+
 nav ul{
     padding: 0px;
-    margin: 5px;
+    margin: 5px 0px;
 }
 
 nav li{
+    border-right: 2px groove gray;
+
+    
     display: inline;
-    padding: 10px;
+    padding: 5px;
+    margin: 10px 0px;
 }
 
 aside{

@@ -1,5 +1,5 @@
-Publisering på ditt hjemmeområdet på internett [toppen]
--------------------------------------------------------
+# Publisering 
+Hvordan gjøre innhold tilgjengelig på ditt hjemmeområde på internett
 
 * [Windows](#windows)
 * [Mac](#mac)
@@ -7,7 +7,7 @@ Publisering på ditt hjemmeområdet på internett [toppen]
 * [Terminal](#terminal)
 * [Bidra](#bidra)
 
-# Windows
+## Windows
 1. Under "Computer" trykk "Map Network drive"
 >![](ms_step1.png)
 
@@ -29,10 +29,10 @@ Publisering på ditt hjemmeområdet på internett [toppen]
 7. Dersom du har lagt fila "webprosjekt.html" under www-mappen, vil den være tilgjengelig for browseren med url'en "student.cs.hioa.no/~sxxxxxx/webprosjekt.html" der xxxxxx er ditt studentnr.
 >![](ms_step7.png)
 
-[Til toppen](#toppen)
+[Til toppen](#publisering)
 
 
-# Mac
+## Mac
 
 1. Finder > Go > Connect to Server.
 >![](mac_step1.png)
@@ -50,11 +50,12 @@ Publisering på ditt hjemmeområdet på internett [toppen]
 >![](mac_step6.png)
 
 
-[Til toppen](#toppen) 
+[Til toppen](#publisering) 
 
 
 
-#Linux
+## Linux
+
 Det vil variere mellom de ulike linux- distribusjonene hvordan dette gjøres via GUI, men her er en veiledning fra **Ubuntu 12.04 LTS**. Det er sannsynligvis svært likt på de fleste andre moderne distroer.
 
 1. Fra filmenyen i Nautilus (Gå feks. via "Home Folder"), trykk "Go > Location". Du får da opp et utforskervindu, med en adresselinje. Skriv inn adressen som på bildet, men med ditt studentnummer.
@@ -77,10 +78,10 @@ Det vil variere mellom de ulike linux- distribusjonene hvordan dette gjøres via
 
 Det er også mulig å montere opp (mounte) hjemmeområdet manuelt i terminal, som et hvilket som helst samba-share. Da kan du få det i den mappen du ønsker. For denne løsningen, google "mount samba share [din favoritt-distro]"
 
-[Til toppen](#toppen)
+[Til toppen](#publisering)
 
 
-# Jobbe i terminal [terminal]
+## Terminal
 I både linux og Mac har du flere muligheter for å jobbe via terminal. Foreløpig vil vi forutsette at man mounter opp sitt hjemmeområde som beskrevet over, først.
 
 For mac vil hjemmeområdet finnes under `/Volumes/sxxxxxx` der xxxxxx er ditt studentnr.
@@ -102,7 +103,8 @@ Når du har funnet frem til hvor hjemmeområdet ditt ligger, kan du redigere fil
 
 Når du lagrer vil filen oppdateres direkte på server, og være tilgjengelig for hele verden.		
 
-[Til toppen](#toppen)
+[Til toppen](#publisering)
 
-#Bidra til denne fila! [bidra]
+## Bidra!
+
 Dersom du ser ting som kunne vært beskrevet bedre, eller dersom du feks. har funnet ut hvordan man kobler seg til via et annet OS, føl deg fri til å forke repositoriet, oppdatere denne fila, committe, pushe og sende pull-request. Er bidraget seriøst og nyttig blir det inkludert her.

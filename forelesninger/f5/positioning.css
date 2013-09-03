@@ -1,0 +1,47 @@
+hr{
+
+    border: 1px dotted white;
+}
+
+section{
+    border: 1px solid gray;
+    max-width: 10em;
+    /* width: 10em; */
+    
+    padding: 10px;
+    /*
+      padding-right: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      */
+    
+
+    /* float: left; */
+    
+    background-color: #33f;
+    position:  fixed;/*static;relative;absolute; */
+    left: 100px;
+
+}
+
+section section {
+    background-color: #55f;
+    position:  absolute;/*static;relative;absolute; */
+    left: 20px;
+
+}
+
+section section section {
+    background-color: #77f;
+    position:  absolute;/*static;relative;absolute; */
+    left: 20px;
+
+}
+
+section section section section {
+    background-color: #99f;
+    margin-left: 20px;*/
+    left: 0px;
+    position:  relative;/*static;relative;absolute; */
+
+}

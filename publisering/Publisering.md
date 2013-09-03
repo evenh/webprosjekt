@@ -82,14 +82,17 @@ Det er også mulig å montere opp (mounte) hjemmeområdet manuelt i terminal, so
 
 
 ## Terminal
-I både linux og Mac har du flere muligheter for å jobbe via terminal. Foreløpig vil vi forutsette at man mounter opp sitt hjemmeområde som beskrevet over, først.
+I både linux og Mac har du flere muligheter for å jobbe via terminal. 
+
+### Jobbe via samba share
+Her vil vi forutsette at man mounter opp sitt hjemmeområde som beskrevet over, først.
 
 For mac vil hjemmeområdet finnes under `/Volumes/sxxxxxx` der xxxxxx er ditt studentnr.
 
-    	alfreb$ cd /Volumes/s173682/
-		alfreb$ ls
-		alfreb$ cd www
-		alfreb$ ls -l
+    	$ cd /Volumes/s173682/
+		$ ls
+		$ cd www
+		$ ls -l
 		...
 		-rw-r--r--   1 alfreb  staff     34 Aug 19  2011 verden.php
 		drwxr-xr-x   2 alfreb  staff  16384 Sep  2 15:47 webprosjekt
@@ -99,9 +102,24 @@ For hvor området havner i Linux, se forrige avsnitt.
 
 Når du har funnet frem til hvor hjemmeområdet ditt ligger, kan du redigere filene der direkte, feks. med emacs:
 
-		alfreb$ emacs webprosjekt.html
+		$ emacs webprosjekt.html
 
 Når du lagrer vil filen oppdateres direkte på server, og være tilgjengelig for hele verden.		
+
+### Via ssh
+Instituttet tilbyr ssh-tilbang (secure shell) for studenter via studssh. Dette fungerer direkte både fra  mac- og linuxterminaler, og via [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) eller [cygwin](http://www.cygwin.com/) for Windos. Kommandoen 
+
+
+	    	  $ ssh s173682@studssh.cs.hioa.no
+
+
+(med ditt brukernavn) lar deg logge inn direkte på skolens server. Etter å ha godkjent evt. sertifikater (kun første gang) og oppgitt passord kan du gå inn i www-mappen din og starte emacs, akkurat som over, og endringene blir lagret direkte på serveren. Du kan også kopiere filer over ssh, med kommandoen `scp` (Secure copy). Eksempel:
+
+
+		$ scp index.html s173682@studssh.cs.hioa.no:www/webprosjekt/
+
+
+Her kopieres filen index.html fra mappen du står i lokalt på din PC, til mappen "webprosjekt" i "www"-mappen (for student s173682 - du må bruke ditt studentnr.). Denne filen blir da tilgjengelig via url'en `http://student.cs.hioa.no/~s173682/webprosjekt/`. (Siden fila heter "index.html", som er den fila webserveren automatisk ser etter, trenger man kun å oppgi mappenavnet, og ikke filnavnet. For andre filnavn må dette hektes på etter mappenavnet)
 
 [Til toppen](#publisering)
 

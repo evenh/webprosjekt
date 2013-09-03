@@ -48,7 +48,7 @@ Siden skal inneholde:
 - Bruk gjerne git (helt uavhengig av github) - det gir deg muligheten til å bevare historikken i hvordan siden din utvikler seg, jobbe på ulike delprosjekter samtidig (branches) osv. Dette er ikke et krav, bare en anbefaling.
 
 ### Publisering og levering
-Siden skal legges ut på internett, under ditt personlige hjemmeområde. Se eget skriv om dette: [Publisering.md](publisering.md). Den versjonen som ligger ute når innleveringsfristen faller, gjelder som din innlevering. 
+Siden skal legges ut på internett, under ditt personlige hjemmeområde. Se eget skriv om dette: [Publisering.md](../publisering/Publisering.md). Den versjonen som ligger ute når innleveringsfristen faller, gjelder som din innlevering. 
 
 ### Vurdering
 Bestått/Ikke bestått. Dersom arbeidet viser at du har gjort et ærlig forsøk, men ikke får bestått, vil du kunne få mulighet til å få en ny sjanse.

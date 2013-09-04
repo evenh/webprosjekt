@@ -2,6 +2,15 @@
 NYHETER
 ==========================
 
+**04.09.2013**
+
+- Ingen forelesning neste onsdag (11.sept.) pga. ped.-kurs.
+      - Mandagen (09.sept.) blir det i utgangspunktet ikke nytt stoff, men mer omfattende eksempler og utdyping av det som har blitt gjennomgått til nå. Altså: Mer praktisk, mindre slides. Prøver også å finne noen morsomme nøtter å løse.
+      - Ønsker du å få noe repetert i plenum? Send e-post! [webprosjekt@cs.hioa.no](mailto:webprosjekt@cs.hioa.no). Er det flere som ønsker det samme tar vi en runde på det. 
+      - Det blir lab som normalt hele neste uke.
+- **Oblig 1 er ute**, som nevnt på forelesning. Du finner oppgaveteksten under `./oppgaver`
+
+
 **26.08.2013**
 
 Vi bruker nå github for å legge ut nyheter. Det innebærer at du nå kan få e-postvarsling hver gang det blir lagt til en nyhet, eller det skjer noe i repositoriet - altså hver gang det legges ut oppgaver, forelesningsnotater el. Dette aktiverer du ved å "watche" prosjektet. 

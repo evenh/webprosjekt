@@ -1,11 +1,13 @@
 # Publisering 
-Hvordan gjøre innhold tilgjengelig på ditt hjemmeområde på internett
+Hvordan gjøre innhold tilgjengelig på ditt hjemmeområde på internett?
 
 * [Windows](#windows)
 * [Mac](#mac)
 * [Linux](#linux)
 * [Terminal](#terminal)
 * [Bidra](#bidra)
+
+**NB:** For å koble på hjemmeområdet utenfor skolens nettverk (typisk hjemmefra), må du opprette en VPN-forbindelse og koble deg på denne. Instruksjoner finnes for [Mac](http://www.hioa.no/BIT/Nettverk/Veiledninger/VPN-tilkobling-for-Mac-OS-X-10.5-til-10.7), [Linux](http://www.hioa.no/BIT/Nettverk/Veiledninger/VPN-tilkobling-for-Linux-Ubuntu) og [Windows](http://www.hioa.no/BIT/Nettverk/Veiledninger/Tilgang-til-hjemmeomraade-for-Windows#manuell).
 
 ## Windows
 1. Under "Computer" trykk "Map Network drive"
@@ -87,7 +89,7 @@ I både linux og Mac har du flere muligheter for å jobbe via terminal.
 ### Jobbe via samba share
 Her vil vi forutsette at man mounter opp sitt hjemmeområde som beskrevet over, først.
 
-For mac vil hjemmeområdet finnes under `/Volumes/sxxxxxx` der xxxxxx er ditt studentnr.
+For Mac vil hjemmeområdet finnes under `/Volumes/sxxxxxx` der xxxxxx er ditt studentnr.
 
     	$ cd /Volumes/s173682/
 		$ ls
@@ -107,10 +109,10 @@ Når du har funnet frem til hvor hjemmeområdet ditt ligger, kan du redigere fil
 Når du lagrer vil filen oppdateres direkte på server, og være tilgjengelig for hele verden.		
 
 ### Via ssh
-Instituttet tilbyr ssh-tilbang (secure shell) for studenter via studssh. Dette fungerer direkte både fra  mac- og linuxterminaler, og via [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) eller [cygwin](http://www.cygwin.com/) for Windos. Kommandoen 
+Instituttet tilbyr ssh-tilgang (secure shell) for studenter via studssh. Dette fungerer direkte både fra  mac- og linuxterminaler, og via [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) eller [cygwin](http://www.cygwin.com/) for Windows. Kommandoen 
 
 
-	    	  $ ssh s173682@studssh.cs.hioa.no
+    	$ ssh s173682@studssh.cs.hioa.no
 
 
 (med ditt brukernavn) lar deg logge inn direkte på skolens server. Etter å ha godkjent evt. sertifikater (kun første gang) og oppgitt passord kan du gå inn i www-mappen din og starte emacs, akkurat som over, og endringene blir lagret direkte på serveren. Du kan også kopiere filer over ssh, med kommandoen `scp` (Secure copy). Eksempel:

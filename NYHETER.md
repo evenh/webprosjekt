@@ -1,6 +1,13 @@
 NYHETER
 ==========================
 
+**20.09.2013**
+
+  * Ukesoppgave: Lag et sjakkbrett og / eller et liknende spillbrett med HTML og CSS. Flere detaljer [her](./oppgaver/sjakk.md)
+  * Forelesningsnotater for onsdagen(f9) er lagt ut. På mandagen(f8) gikk vi igjennom kode for sjakkbrettet, som nå er oppgave, så dette legges ikke ut før senere.
+  * Forrige mandags forelesning(f7) var også en ren kodeforelesning. Materialet herfra er lagt ut.
+
+
 **16.09.2013**
 
 Detaljer om innlevering av oblig1:

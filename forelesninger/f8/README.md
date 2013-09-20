@@ -1,0 +1,1 @@
+Denne forelesningen ble benyttet til å lage et sjakkbrett i HTML og CSS. Dette er nå oppgave, og koden fra forelesningen blir derfor lagt ut først senere.

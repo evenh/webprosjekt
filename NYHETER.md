@@ -1,6 +1,26 @@
-
 NYHETER
 ==========================
+
+**16.09.2013**
+
+Detaljer om innlevering av oblig1:
+      
+- **Levering av oblig1 skjer ved at man legger ut siden på en bestemt måte**. For at det skal være mulig å rette noenlunde effektivt er det et krav at man legger ut *slik at siden kommer direkte opp* (IKKE at man kommer til en liste av filer), via en av følgende to url'er (der s101010 er byttet ut med ditt studentnummer):
+      - **A)** `student.cs.hioa.no/~s101010/`. Dette vil funke dersom hovedfila heter "index.html" og ligger rett i www-mappa.
+      - **B)** `student.cs.hioa.no/~s101010/webprosjekt.html`. Denne linken vil ikke bli indeksert av søkemotorer, så dette er et alternativ for dere som ønsker å være anonyme. Dette forutsetter at `webprosjekt.html` ligger i www-mappa. 
+- **Du er nødt til å være meldt inn i fronter-rommet**, for at vi skal kunne vite om deg. *Dersom du ikke kommer inn i fronter-rommet, [send mail ved å klikke her](mailto:webprosjekt@cs.hioa.no?subject=Frontertilgang)*
+
+Et par tekniske avklaringer:
+- Med *interne lenker* mener vi lenker som peker til et HTML-element på samme side.
+- Med *eksterne lenker* mener vi lenker som peker ut til et annet domene.
+- Dersom du i tillegg har egne undersider er det helt OK, men ikke et krav. Du må da allikevel ha linker til eksterne domener og til HTML-elementer på samme side.
+- En del har spurt om hva som er minimumskravet for å få godkjent, spesielt mtp. hvor forskjellige CSS-filene må være. Det har vi valgt å ikke svare på; dersom vi oppgir et minimum her, vil mange gjøre akkurat det og ikke mer. Dersom du har lavt ambisjonsnivå og faktisk bare ønsker å bestå, kan du legge ut det du selv mener er godt nok, og så fortelle i en e-post at du har lavt ambisjonsnivå. Du vil da få et kort svar, med "OK/IKKE OK". De som ikke oppgir at de har lavt ambisjonsnivå, og som har forsøkt å strekke seg litt, vil få fyldigere tilbakemelding.
+- Fil- og mappenavn er case-sensitivt på internett. Det vil si at det skilles på store og små bokstaver, i motsetning til i windows. For å være på den sikre siden:
+      - Bruk kun små bokstaver i alle fil- og mappenavn
+      - Bruk lavstrek `_` i stedet for mellomrom i fil- og mappenavn
+      - Bruk kun engelske bokstaver, tall og lavstrek (ikke internasjonale tegn som æøå etc.) i fil- og mappenavn
+       
+**LYKKE TIL!**
 
 **04.09.2013**
 

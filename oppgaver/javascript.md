@@ -46,7 +46,7 @@ Oppgaver i javascript
  	- Skriv `h1_1.style.color="red"`. Du skal nå se at overskriften blir rød (Hvis den allerede var rørd, velg en annen farge)
 
 
-### Løkker
+### Løkker og kondisjonaler
 
 1. Endre farger med javascript. 
 	- Tilbake i HTML-fila der du løste de første oppgavene, lag tre div-'er på 50x50px, med hver sin farge. Når man klikker på div'ene skal en funksjon `changeColor(x)` kalles, der x er div´ens farge (dette må skrives inn manuelt på hver div). 
@@ -54,6 +54,7 @@ Oppgaver i javascript
 	- Lag Fire-fem h1-elementer, med tilhørende "paragraphs" tekst under. 
 	- Når brukeren klikker på en div, skal disse h1-elementene skifte farge, til å bli den samme som div'en. Du kan bruke kode fra siste konsolloppgave til å endre farge, men du trenger en løkke, for å endre farge på alle elementene i arrayet som returneres fra `getElementsByTagName`.
 
+2. **Utfordring**: Lag en knapp, ved siden av divene, merket `Endre farger`. Når denne trykkes på skal det komme opp tre dialogbokser etter hverandre, som ber om hver sin farge. Div'ene skal endre farge til de som ble oppgitt. Når brukeren trykker på div'en skal alle h1-elementene endres til den nye fargen. Nå må altså funksjonen `changeColor` endres til å lese av fargen div'en har fått, og så endre farge på alle h'-elementene deretter.
 
 
 

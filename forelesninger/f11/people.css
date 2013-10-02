@@ -1,0 +1,22 @@
+body{
+    color: blue;
+}
+
+.person{
+    border: 2px solid gray;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 4px;
+    width: 200px;
+}
+
+.name{
+    padding: 4px;
+    color: white;
+    background-color: #333;
+}
+
+.knownFor{
+    padding: 4px;    
+    color: #333;
+}

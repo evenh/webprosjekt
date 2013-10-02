@@ -1,0 +1,27 @@
+
+#dotbox{
+	position: fixed;
+	
+    height: 80%;
+	bottom: 10px;
+    right: 10px;
+    left: 10px;
+	border: 2px groove gray;
+	z-index: 2;
+}
+
+.dot{	
+    position: absolute;
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    border-radius: 25px; 
+    position: fixed;
+    margin: 30% 50%;
+    
+
+}
+
+svg{
+    z-index: 2;
+}

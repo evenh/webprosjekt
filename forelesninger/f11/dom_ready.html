@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+    <meta charset="utf-8">
+    <title>JS 1</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>	
+    <script src="jquery_test.js"></script>
+    <link rel="stylesheet" href="js.css">
+  </head>
+  <body>
+    
+    <div class="box red"></div>
+    <div class="box red"></div> 
+    <script>
+      alert("Script midt i HTML'en - nå kommer en grønn");
+      document.writeln("<div class='box green'></div>");
+      alert("Kom det en grønn box?");
+    </script>
+    <div class="box orange"></div>
+    <div class="box orange"></div>
+    
+  </body>
+</html>

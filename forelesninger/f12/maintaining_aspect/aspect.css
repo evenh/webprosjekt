@@ -1,0 +1,50 @@
+
+#outer_box{
+	/*
+		Position could be anything, but has to be set 
+		for the inner element to get position absolute
+	*/
+	position: relative; 
+	
+	width: 90%;
+	padding-bottom: 90%;
+}
+
+
+#inner_box{	
+	position: absolute;
+	top: 10px;	
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+
+	/*
+		Percentages would work too.
+	*/
+}
+
+#content{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+/*
+	Decoration
+*/
+
+.dotted{
+	border: 1px dotted black;
+}
+
+.solid{
+	border: 2px groove grey;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+td{
+	border: 1px solid black;
+}

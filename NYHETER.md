@@ -1,6 +1,33 @@
 NYHETER
 ==========================
 
+**10.10.2013**
+
+**Gruppeinndeling:** Som annonsert ønsker vi å dele inn i grupper basert på interesser. Vi har laget en provisorisk web-app for dette formålet. Gjør slik: 
+
+  * Gå til web-appen [interestGroups](http://web.warpspace.org/interestGroups/) og registrer dine ønsker. 
+  * Trykk "Lagre mine valg". Du får da ned en fil, `interesser.json`. Denne skal du lagre direkte i din www-mappe, eller, levere inn via fronter, dersom du ønsker å holde interessene dine privat. **OBS:** *I safari vil du få opp innholdet i json-fila direkte på skjermen. Du kan da lagre fila som "interesser.json", fra fil-menyen i browseren.* 
+
+
+**Bli med på forskningsprosjekt!**
+
+Vi søker fire studentgrupper som vil være med på forskningsprosjektet om
+studenters læring og innvielse i ekspertkulturer.
+
+Alle studenter som følger kurset kan delta (både ingeniørfag og andvendt
+datateknologi)
+
+Grupper som deltar får tilgang til reserverte grupperom på avtalte
+tider. Deltakerne får også et gavekort på 200 kr som takk for hjelpen.
+
+Presentasjonen fra forelesningen 2. oktober finner du [her](https://github.com/hioa-cs/webprosjekt/blob/master/Forskningsprosjekt_informasjon_til_studenter_webprosjekt_02102013.pdf).
+
+Interessert? Du kan registrere dette når du melder fra om hva slags
+prosjekt du er interessert i å jobbe med.
+Eller ta kontakt med Monika Nerland: [monika.nerland@iped.uio.no](mailto:monika.nerland@iped.uio.no)
+
+
+
 **20.09.2013**
 
   * Ukesoppgave: Lag et sjakkbrett og / eller et liknende spillbrett med HTML og CSS. Flere detaljer [her](./oppgaver/sjakk.md)

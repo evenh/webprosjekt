@@ -1,6 +1,20 @@
 NYHETER
 ==========================
 **22.10.2013**
+
+Alle vi har mottatt gyldige JSON-filer fra (ca 110 stk.), enten via fronter, eller via www-mappe, har nå blitt tildelt gruppe. Dette med unntak av to studenter, som blir kontaktet på e-post, og vil få flere deltakere. 
+
+De fleste gruppeønsker med 4 navn har blitt innvilget. Gruppefordelingen for øvrig har blitt gjort via en matching-algoritme, som søker etter gruppesammensettinger som tilsammen gir grupper med størst mulig grad av like interesser. Helheten har blitt prioritert, og det er lagt vekt på at det skal bli færrest mulig grupper med få eller ingen felles interesser, snarere enn å maksimere likhet i enkelte grupper. 
+
+Dersom man ønsker å vå vite hva gruppen hadde til felles kan man ta kontakt, men vi anbefaler heller at dere blir kjent - kontakt hverandre på e-post og avtal et møte!! Du har studentnummer til alle deltakerne, og dermed også mailadressen.
+
+De som nå ikke har blitt tildelt grupper kommer til å bli delt inn tilfeldig. 
+
+Lykke til med oppstart!
+
+
+**22.10.2013**
+
 Oppgaveteksten til prosjektarbeidet er nå lagt ut her: [prosjektoppgave.md](./prosjektoppgave/prosjektoppgave.md). Gruppene kommer fortløpende.
 
 **15.10.2013**

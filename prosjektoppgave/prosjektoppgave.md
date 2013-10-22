@@ -20,6 +20,8 @@ Dere skal lage en webside dere synes det virker interessant å lage. Det er mang
 # Tema og innhold
 Dere har (for de fleste) blitt plassert i grupper basert på interesser, både mtp. tema, teknologi og type side. Dere er ikke *forpliktet* til å lage en side basert på dette, men dere må velge noe som interesserer alle. Dere kan altså ombestemme dere - men husk at klokka tikker.
 
+[Gruppelisten finner du her](./grupper.md)
+
 ### Prøv å lage noe du kan sette på CV'en
 Det er alltid nyttig å ha egne prosjekter på en CV. Tenk at dette prosjektet skal vise hva du kan i grunnteknologiene du har lært i dette kurset, til en fremtidig arbeidsgiver
 

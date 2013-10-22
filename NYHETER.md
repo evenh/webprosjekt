@@ -1,5 +1,17 @@
 NYHETER
 ==========================
+**15.10.2013**
+
+**Gruppeinndeling:** 
+Det er mange som har levert inn sine interesser via gruppesystemet, men det er fremdeles mange som mangler. Det er viktig at *alle* melder inn sine interesser så fort som mulig, slik at vi kan spikre gruppene. Vi vil begynne med gruppesammensettingen  i dag, men da jeg (Alfred) er sykemeldt ut uken vil det mest sannsynlig drøye til mandag før den endelige gruppesammensettingen er på plass. 
+  * De som har ytret ønske om å være på gruppe sammen vil få dette innvilget, dersom det er fire på gruppen, og så fremt deltagerne har oppgitt at de har sammenfallende interesser. 
+  * Vi vil forsøke å ta også andre gruppeønsker med i betraktningen når vi legger kabalen, men vi lover ingen ting.
+  * Vi informerer fortløpende etter hvert vi kommer frem til gruppeforslag, enten på github eller via e-post
+
+**Oblig 2:** 
+Det er mange henvendelser ang. oblig 2 i vårt ticketsystem. Vi behandler disse fortløpende, men vær litt tålmodige.
+
+
 
 **10.10.2013**
 

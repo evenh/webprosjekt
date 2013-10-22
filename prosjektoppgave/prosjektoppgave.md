@@ -101,7 +101,7 @@ Det skal lages én prosjektplan som skal levéres etter den første uken (se top
   - Det forventes at både rapporten og kravspecen skal kunne skrives ut på papir / til PDF. Vær nøye med at CSS'en gir rom for dette, [evt. lag egen CSS for utskrift](http://www.w3schools.com/css/css_mediatypes.asp).
 
 ### Avsluttende rapport
-  Rapporten skal hete `/prosjektrapport.pdf`.
+  Rapporten skal hete `/prosjektrapport.html`.
   - Rapporten teller på karakteren 
   - Flere detaljer om prosjektarbeid, planlegging, metode og rapport kommer.
 

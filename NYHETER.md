@@ -1,5 +1,8 @@
 NYHETER
 ==========================
+**22.10.2013**
+Oppgaveteksten til prosjektarbeidet er nå lagt ut her: [prosjektoppgave.md](./prosjektoppgave/prosjektoppgave.md). Gruppene kommer fortløpende.
+
 **15.10.2013**
 
 **Gruppeinndeling:** 

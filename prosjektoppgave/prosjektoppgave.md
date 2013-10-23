@@ -1,4 +1,3 @@
-
 #Webprosjekt H2013
 
 Prosjektoppgave
@@ -6,7 +5,7 @@ Prosjektoppgave
 
 Dere skal lage en webside dere synes det virker interessant å lage. Det er mange detaljer i oppgaveteksten og *det forventes at den leses nøye*
 
-**Frist for prosjektplan:** 
+**Frist for forprosjektrapport:** 
 *Onsdag 30.10.2013 kl.23:59*
 
 **Endelig innlevering**
@@ -84,13 +83,13 @@ Siden skal legges ut på internett - se eget skriv om dette: [Publisering.md](pu
 
 
 # Prosjektstyring og rapportering
-Det skal lages én prosjektplan som skal levéres etter den første uken (se toppen) og en avsluttende rapport, som skal utformes iht. prosjektdelen av kurset. 
+Det skal lages én forprosjektrapport som skal levéres etter den første uken (se toppen) og en avsluttende rapport, som skal utformes iht. prosjektdelen av kurset. 
 
 ### Metode
   - Bruk en fastlagt metode som dere finner i litteraturen, f.eks. SCRUM, RAD, Prototyping, eller andre.
 
-### Prosjektplan
-  - Dere skal lage en plan for arbeidet som skal legges ut på gruppens hjemmeområde, under `/prosjektplan.html`. Her forventes kun enkel HTML og CSS; men med kvalitetskrav som ellers. Planen skal inneholde: 
+### Forprosjektrapport
+  - Dere skal lage en plan for arbeidet som skal legges ut på gruppens hjemmeområde, under `/forprosjekt.html`. Her forventes kun enkel HTML og CSS; men med kvalitetskrav som ellers. Planen skal inneholde: 
     - En enkel, uformell beskrivelse av alle "use cases", altså en liste over alle ting brukeren kan gjøre
     - Prototype av grensesnittet (Skisser går greit)
     - Fordeling av arbeidsoppgaver - hvem skal gjøre hva

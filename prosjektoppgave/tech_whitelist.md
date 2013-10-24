@@ -15,6 +15,8 @@
 - JQuery
 - Googles AngularJS
 - Google fonts
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+
 
 ## Tillatt med forbehold
 - Twitters Bootstrap
@@ -24,7 +26,8 @@
 
 ## Tillatte verktøy
 
-- Alle teksteditorer som *ikke genererer ferdig kode
+- Alle teksteditorer som *ikke* genererer ferdig kode
+- NetBeans, SublimeText etc. som lukker tagger er "innafor". 
 - Git 
 - Github
 - Alle bildebehandlingsverktøy som Photoshop, Gimp, Inkscape, Illustrator etc.

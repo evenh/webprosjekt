@@ -1,5 +1,19 @@
 NYHETER
 ==========================
+
+**29.10.2013**
+
+**Innlevering av forprosjekt**. Vi har fått noen spørsmål om hvordan man går frem i utformingen av forprosjektrapporten. Det er ingen *formelle krav* til hvordan denne skal se ut, hvilke verktøy man skal bruke etc. bortsett fra det som står i oppgaveteksten. Hovedmålet er at dere skal få erfaring med å planlegge et prosjekt, sette opp realistiske, trinnvise mål, og forsøke å forutse hva som må gjøres og hvor lang tid det vil ta. 
+
+Når det er sagt er det ikke slik at vi forventer at alle skal klare å forutse alt dette - estimering og prosjektplanlegging krever erfaring og øvelse. Det vi legger vekt på er at dere har gjort et seriøst forsøk, slik at dere senere, i sluttrapporten kan vise en reflektert evaluering av hvordan prosjektet faktisk utviklet seg, i forhold til hva dere på forhånd hadde tenkt. Målet er altså at dere skal få en nyttig erfaring, som dere skal kunne vise at dere har lært noe av; ikke at dere har en perfekt plan, som dere så klarer å gjennomføre til punkt og prikke. 
+
+Det er også greit å gjøre endringer i planen underveis; gjør dere dette, *dokumenter det*, og redegjør i sluttrapporten for hva som gjorde at dere måtte endre planen. Da viser dere at dere reflekterer over deres egen prosess, og gjør bevisste valg. Sannsynligvis vil dette gjøre sluttproduktet bedre.
+
+Prosjektrapporten og kravspesifikasjonen skal legges ut på gruppens hjemmeområde, slik det fremgår av oppgaveteksten.
+
+Lykke til!
+
+
 **22.10.2013**
 
 Alle vi har mottatt gyldige JSON-filer fra (ca 110 stk.), enten via fronter, eller via www-mappe, har nå blitt tildelt gruppe. Dette med unntak av to studenter, som blir kontaktet på e-post, og vil få flere deltakere. 

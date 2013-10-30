@@ -16,6 +16,13 @@
 - Googles AngularJS
 - Google fonts
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- MySQL-database
+	- Kan benyttes dersom det er hensiktsmessig for prosjektet. Krever *ekstra* egeninnsats.
+	- Fra skoleserveren (student.cs.hioa.no evnt i terminalen fra studssh.cs.hioa.no) kan du koble til ved med følgende detaljer:
+		- Server: cube
+		- Brukernavn: studentnummer (sXXXXXX)
+		- Database: studentnummer (sXXXXXX)
+		- Passord: blankt, kan settes selv om ønskelig
 
 
 ## Tillatt med forbehold

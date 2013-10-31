@@ -38,6 +38,6 @@
 - Git 
 - Github
 - Alle bildebehandlingsverktøy som Photoshop, Gimp, Inkscape, Illustrator etc.
-
+- PhPMyAdmin til å generere tabeller til MySQL
 
 **Denne listen vil oppdateres etterhvert som vi får forespørsler**

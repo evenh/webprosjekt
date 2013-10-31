@@ -1,6 +1,10 @@
 NYHETER
 ==========================
 
+**31.10.2013**
+
+**Fungerer samarbeidet?** Uansett hva svaret er anbefaler vi at du leser [dette](./prosjektoppgave/samarbeidsavtale.md) og skriver en avtale med de andre deltakerne. Linken har forslag til innhold, eksempler, og informasjon om hva dere kan gjøre hvis dere ikke får samarbeidet til å fungere.
+
 **29.10.2013**
 
 **Innlevering av forprosjekt**. Vi har fått noen spørsmål om hvordan man går frem i utformingen av forprosjektrapporten. Det er ingen *formelle krav* til hvordan denne skal se ut, hvilke verktøy man skal bruke etc. bortsett fra det som står i oppgaveteksten. Hovedmålet er at dere skal få erfaring med å planlegge et prosjekt, sette opp realistiske, trinnvise mål, og forsøke å forutse hva som må gjøres og hvor lang tid det vil ta. 

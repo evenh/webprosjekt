@@ -7,5 +7,7 @@
 	- Joomla
 	- Drupal
 	- Alle tilsvarende løsninger
+
+- Alle biblioteker som *genererer HTML for dere*, med unntak av det som måtte stå i whitelist.
 	
 **Denne listen vil oppdateres etterhvert som vi får forespørsler**
